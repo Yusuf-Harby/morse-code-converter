@@ -26,6 +26,7 @@ g++ -o morse main.cpp
 ./morse
 ```
 ## 🧪 Sample Output
+```bash
 -----------------------------
 1) From text to Morse code
 2) From Morse code to text
@@ -37,19 +38,19 @@ Morse code: .... . ._.. ._.. ___ / .__ ___ ._. ._.. _..
 Choose which kind of operation you want: 2
 Enter your Morse code: .... . ._.. ._.. ___
 The Text: hello
-
+```
 ## 💬 Morse Code Reference (Examples)
 
 Character	Morse Code
-A	._
-B	_...
-C	..
-D	_..
-E	.
-Z	__..
-0	_____
-5	.....
-9	____.
+- A	._
+- B	_...
+- C	..
+- D	_..
+- E	.
+- Z	__..
+- 0	_____
+- 5	.....
+- 9	____.
 
 ## 📌 License
 This project is licensed under the MIT License – feel free to use, modify, and share.
