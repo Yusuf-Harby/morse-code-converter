@@ -17,11 +17,15 @@
 ## ▶️ How to Compile and Run
 
 ### ✅ Compile:
+
 ```bash
 g++ -o morse main.cpp
-✅ Run:
+```
+### ✅ Run:
+```bash
 ./morse
-🧪 Sample Output
+```
+## 🧪 Sample Output
 -----------------------------
 1) From text to Morse code
 2) From Morse code to text
@@ -34,7 +38,7 @@ Choose which kind of operation you want: 2
 Enter your Morse code: .... . ._.. ._.. ___
 The Text: hello
 
-💬 Morse Code Reference (Examples)
+## 💬 Morse Code Reference (Examples)
 
 Character	Morse Code
 A	._
@@ -46,8 +50,9 @@ Z	__..
 0	_____
 5	.....
 9	____.
-📌 License
+
+## 📌 License
 This project is licensed under the MIT License – feel free to use, modify, and share.
 
-💡 Author
+## 💡 Author
 Made with ❤️ by Yusuf as a learning project.
